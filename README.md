@@ -1,4 +1,4 @@
-# Neoftch "BASIC" port for the Commodore 64
+# Neofetch "BASIC" port for the Commodore 64
 
 There are two versions:
 
